@@ -1,11 +1,15 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 1,
+title: Todo App 
 date: 2014-07-18
-img: cabin.png
+img: todoapp.png
+img2: todoappeditar.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: August 2021
+category: Web Development,
+description: Aplicacion que sirve para guardar tus tareas. La idea de principal consiste en poder organizar bien tus tareas a lo largo del dia.  
+tecnologies: Tecnologias-> Vuejs, libreria Vuetify.
+link: https://todoappvuetify.netlify.app/#/
+repository: https://github.com/omareltahasantos/todoApp
 ---

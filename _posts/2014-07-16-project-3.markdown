@@ -1,11 +1,13 @@
 ---
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: circus.png
+modal-id: 3,
+title: Online store
+date: 2014-07-18
+img: homePage.png
+img2: homePage2.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Juny 2020
+description: Tienda online de venta de videojuegos digitales. Una vez el usuario visitante hace el pago se le envia un codigo alphanumerico del videojuego y el usuario pasa a tener rol de cliente. Y entonces podra ver los codigos de todos los juegos que ha comprado. .
+tecnologies: Tecnologias-> HTML5, CSS3, Javascript, Bootstrap, Jquery, AJAX, PHP, PostgresSql, ORM, GIT
+repository: https://github.com/omareltahasantos/ProjecteDAW
 ---
