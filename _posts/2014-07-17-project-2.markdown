@@ -8,8 +8,8 @@ img2: weatherapptoday.png
 alt: image-alt
 project-date: July 2021
 category: Web Development,
-description: Aplicacion que sirve para saber la temperatura que hace hoy y lo que va a hacer durante los proximos dias. 
-tecnologies: Tecnologias-> HTML5, CSS3, Javascript, AJAX, Bootstrap, Jquery, API REST.
+description: Aplicación que sirve para saber la temperatura que hace hoy y lo que va a hacer durante los próximos días. 
+tecnologies: Tecnologías-> HTML5, CSS3, Javascript, AJAX, Bootstrap, Jquery, API REST.
 link: https://weatherappli.netlify.app/
 repository: https://github.com/omareltahasantos/Weather
 ---

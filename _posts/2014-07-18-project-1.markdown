@@ -8,8 +8,8 @@ img2: todoappeditar.png
 alt: image-alt
 project-date: August 2021
 category: Web Development,
-description: Aplicacion que sirve para guardar tus tareas. La idea de principal consiste en poder organizar bien tus tareas a lo largo del dia.  
-tecnologies: Tecnologias-> Vuejs, libreria Vuetify.
+description: Aplicación que sirve para guardar tus tareas. La idea principal consiste en poder organizar bien tus tareas a lo largo del día. 
+tecnologies: Tecnologías-> Vuejs, librería Vuetify.
 link: https://todoappvuetify.netlify.app/#/
 repository: https://github.com/omareltahasantos/todoApp
 ---

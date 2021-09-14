@@ -7,7 +7,7 @@ img: homePage.png
 img2: homePage2.png
 alt: image-alt
 project-date: Juny 2020
-description: Tienda online de venta de videojuegos digitales. Una vez el usuario visitante hace el pago se le envia un codigo alphanumerico del videojuego y el usuario pasa a tener rol de cliente. Y entonces podra ver los codigos de todos los juegos que ha comprado. .
-tecnologies: Tecnologias-> HTML5, CSS3, Javascript, Bootstrap, Jquery, AJAX, PHP, PostgresSql, ORM, GIT
+description: Tienda online de venta de videojuegos digitales. Una vez el usuario visitante hace el pago se le envía un código alfanumérico del videojuego y el usuario pasa a tener rol de cliente. Y entonces podrá ver los códigos de todos los juegos que ha comprado.
+tecnologies: Tecnologías-> HTML5, CSS3, Javascript, Bootstrap, Jquery, AJAX, PHP, PostgreSql, ORM, GIT
 repository: https://github.com/omareltahasantos/ProjecteDAW
 ---
