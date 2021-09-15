@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 4,
+title: Crud Vue + PHP
+date: 2014-07-18
+img: crud1.png
+img2: crud2.png
+alt: image-alt
+project-date: September 2021
+description: Página administrativa para crear, editar, eliminar y listar empleados y a la hora de mostrar mas resultados he implementado una paginación.. Toda los datos reflejados y las operaciones con Mysql se consumen desde una API REST hecha con PHP.
+tecnologies: Tecnologías-> Vue, vue router, vuetify, axios, php, mysql, git, api rest.
+repository: https://github.com/omareltahasantos/crud-vue-php
+category: Web Development,
+link: https://crudvuephp.netlify.app/#/
+---
